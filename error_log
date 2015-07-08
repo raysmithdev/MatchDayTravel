@@ -1,0 +1,234 @@
+[20-Aug-2014 18:34:32 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 49
+[20-Aug-2014 18:40:37 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 50
+[20-Aug-2014 18:40:59 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 123
+[20-Aug-2014 18:41:11 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 161
+[20-Aug-2014 18:41:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 161
+[20-Aug-2014 18:55:54 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 90
+[20-Aug-2014 18:59:13 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 90
+[20-Aug-2014 19:00:35 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ']' in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 161
+[20-Aug-2014 21:01:29 UTC] PHP Fatal error:  Class 'Home_model' not found in /home/awayfromhome/public_html/system/core/Loader.php on line 303
+[20-Aug-2014 21:01:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 38
+[20-Aug-2014 21:02:37 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 42
+[20-Aug-2014 21:16:48 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 46
+[20-Aug-2014 21:16:57 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 46
+[20-Aug-2014 21:26:40 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 88
+[20-Aug-2014 21:31:51 UTC] PHP Fatal error:  Call to undefined method Home_model::check_email() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 82
+[20-Aug-2014 21:33:25 UTC] PHP Fatal error:  Call to undefined method Home_model::check_email() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 82
+[20-Aug-2014 21:37:34 UTC] PHP Fatal error:  Call to undefined method Home_model::check_email() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 82
+[22-Aug-2014 12:50:27 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'application/src/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 224
+[22-Aug-2014 13:55:23 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 13:55:24 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 174
+[22-Aug-2014 13:55:49 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 13:55:49 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 174
+[22-Aug-2014 13:56:01 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 174
+[22-Aug-2014 13:59:26 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 14:02:01 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 14:18:24 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 14:20:38 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:15:12 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:15:50 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:15:52 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:15:54 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:21:16 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:21:43 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:21:44 UTC] CSRF state token does not match one provided.
+[22-Aug-2014 19:21:45 UTC] CSRF state token does not match one provided.
+[23-Aug-2014 08:26:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 1
+[23-Aug-2014 09:01:55 UTC] PHP Fatal error:  Call to undefined function fixture_all_detail() in /home/awayfromhome/public_html/application/modules/home/views/registration.php on line 47
+[23-Aug-2014 09:09:22 UTC] PHP Fatal error:  Can only throw objects in /home/awayfromhome/public_html/application/modules/home/views/common/application_top.php on line 74
+[23-Aug-2014 09:11:01 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/awayfromhome/public_html/application/modules/home/views/common/application_top.php on line 76
+[23-Aug-2014 11:25:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 218
+[23-Aug-2014 18:33:36 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 135
+[23-Aug-2014 18:33:37 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 135
+[23-Aug-2014 18:37:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 135
+[24-Aug-2014 10:54:44 UTC] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 138
+[24-Aug-2014 11:13:25 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 134
+[24-Aug-2014 11:13:26 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 134
+[24-Aug-2014 11:15:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 137
+[24-Aug-2014 12:50:13 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 138
+[25-Aug-2014 17:34:30 UTC] PHP Fatal error:  Call to undefined function password() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 40
+[25-Aug-2014 17:40:52 UTC] PHP Fatal error:  Call to undefined method Home::view() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 39
+[25-Aug-2014 17:43:09 UTC] PHP Fatal error:  Call to undefined method Home::view() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 39
+[25-Aug-2014 17:44:01 UTC] PHP Fatal error:  Call to undefined method Home_model::loadpassword() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 40
+[28-Aug-2014 20:36:12 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[28-Aug-2014 20:36:13 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[28-Aug-2014 21:04:58 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 128
+[28-Aug-2014 21:05:34 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 126
+[28-Aug-2014 21:05:43 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 126
+[28-Aug-2014 21:07:12 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 126
+[28-Aug-2014 21:07:19 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 126
+[28-Aug-2014 21:07:22 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 126
+[28-Aug-2014 21:08:55 Europe/Bucharest] PHP Fatal error:  Call to a member function test() on a non-object in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 126
+[28-Aug-2014 21:10:30 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 127
+[28-Aug-2014 21:11:56 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:58 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:58 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:11:59 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:15 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:16 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 21:12:18 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$model' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 478
+[28-Aug-2014 22:03:14 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ')' in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 30
+[28-Aug-2014 22:03:33 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ')' in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 30
+[28-Aug-2014 22:03:36 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ')' in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 30
+[28-Aug-2014 22:17:37 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ')' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 482
+[28-Aug-2014 22:42:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''duration'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 510
+[28-Aug-2014 22:42:19 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''duration'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 510
+[28-Aug-2014 22:42:21 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''duration'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 510
+[28-Aug-2014 22:55:41 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 500
+[28-Aug-2014 23:00:07 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 500
+[28-Aug-2014 23:03:46 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 500
+[28-Aug-2014 23:04:24 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 500
+[28-Aug-2014 23:04:26 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 500
+[28-Aug-2014 23:05:03 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 500
+[28-Aug-2014 23:05:21 Europe/Bucharest] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 499
+[28-Aug-2014 23:05:45 Europe/Bucharest] PHP Fatal error:  Cannot use object of type stdClass as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 499
+[28-Aug-2014 23:06:01 Europe/Bucharest] PHP Fatal error:  Cannot use object of type stdClass as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 499
+[28-Aug-2014 23:06:19 Europe/Bucharest] PHP Fatal error:  Cannot use object of type stdClass as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 499
+[28-Aug-2014 23:06:21 Europe/Bucharest] PHP Fatal error:  Cannot use object of type stdClass as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 499
+[28-Aug-2014 23:07:50 Europe/Bucharest] PHP Fatal error:  Cannot use object of type stdClass as array in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 499
+[28-Aug-2014 23:19:42 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '.21' (T_DNUMBER) in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 112
+[28-Aug-2014 23:19:43 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '.21' (T_DNUMBER) in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 112
+[29-Aug-2014 00:29:50 Europe/Bucharest] PHP Fatal error:  Call to undefined function postalCodeFormatter() in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 495
+[29-Aug-2014 00:30:11 Europe/Bucharest] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 468
+[29-Aug-2014 01:17:17 Europe/Bucharest] PHP Fatal error:  Call to a member function postalCodeFormatter() on a non-object in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 493
+[29-Aug-2014 01:31:37 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$pcodes' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[29-Aug-2014 01:32:06 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$pcodes' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[29-Aug-2014 01:32:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$pcodes' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[29-Aug-2014 01:34:17 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$pcodes' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[29-Aug-2014 01:34:45 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$pcodes' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 480
+[29-Aug-2014 02:12:28 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 550
+[29-Aug-2014 02:26:27 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''duration'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 579
+[29-Aug-2014 17:09:30 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''user'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 61
+[29-Aug-2014 17:09:31 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''user'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 61
+[29-Aug-2014 17:11:03 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ';' in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 59
+[29-Aug-2014 17:11:03 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ';' in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 59
+[29-Aug-2014 17:14:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ';' in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 59
+[29-Aug-2014 17:30:57 Europe/Bucharest] PHP Fatal error:  Cannot access empty property in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 74
+[29-Aug-2014 17:30:59 Europe/Bucharest] PHP Fatal error:  Cannot access empty property in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 74
+[29-Aug-2014 17:31:30 Europe/Bucharest] PHP Fatal error:  Cannot access empty property in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 74
+[29-Aug-2014 17:31:31 Europe/Bucharest] PHP Fatal error:  Cannot access empty property in /home/apisdobr/public_html/test/application/modules/home/views/post_journey.php on line 74
+[29-Aug-2014 18:01:06 Europe/Bucharest] PHP Parse error:  syntax error, unexpected end of file in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 261
+[29-Aug-2014 18:30:39 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 18:30:56 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 18:30:57 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 18:30:57 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 18:30:58 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 18:30:58 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 18:31:06 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$objDateTime' (T_VARIABLE) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 559
+[29-Aug-2014 23:40:25 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 604
+[29-Aug-2014 23:41:07 Europe/Bucharest] PHP Fatal error:  Call to a member function calculateCost() on a non-object in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 569
+[29-Aug-2014 23:41:54 Europe/Bucharest] PHP Fatal error:  Call to a member function calculateCost() on a non-object in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 569
+[30-Aug-2014 04:05:27 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ')' in /home/apisdobr/public_html/test/application/modules/home/models/home_model.php on line 351
+[30-Aug-2014 12:34:36 Europe/Bucharest] PHP Fatal error:  Call to undefined method Home::load() in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 475
+[30-Aug-2014 13:08:08 Europe/Bucharest] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 567
+[30-Aug-2014 13:29:28 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ';' in /home/apisdobr/public_html/test/application/modules/home/controllers/home.php on line 586
+[30-Aug-2014 13:54:09 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$price' (T_VARIABLE), expecting ',' or ';' in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 95
+[30-Aug-2014 13:59:57 Europe/Bucharest] PHP Parse error:  syntax error, unexpected '$price' (T_VARIABLE), expecting ',' or ';' in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 72
+[30-Aug-2014 14:12:40 Europe/Bucharest] PHP Parse error:  syntax error, unexpected ''.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/apisdobr/public_html/test/application/modules/home/views/mapView.php on line 72
+[30-Aug-2014 15:41:22 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'application/third_party/HMVC/Router.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/awayfromhome/public_html/application/core/MY_Router.php on line 5
+[30-Aug-2014 15:41:23 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'application/third_party/HMVC/Router.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/awayfromhome/public_html/application/core/MY_Router.php on line 5
+[30-Aug-2014 18:24:52 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:26:42 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:03 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:08 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:16 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:17 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:18 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:36 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:37 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:27:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:28:53 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:29:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:29:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:44 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:30:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:31:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 30
+[30-Aug-2014 18:31:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 30
+[30-Aug-2014 18:31:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 30
+[30-Aug-2014 18:31:51 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 33
+[30-Aug-2014 18:32:16 UTC] PHP Fatal error:  Call to undefined function loadview() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 65
+[30-Aug-2014 18:35:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[30-Aug-2014 18:35:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:19:09 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 177
+[31-Aug-2014 15:26:24 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:26:25 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:26:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:26:38 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:26:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:27:31 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:27:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:28:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:28:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:28:23 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:29:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:29:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:29:05 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:29:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:29:36 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 58
+[31-Aug-2014 15:34:32 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:35:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:35:07 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:35:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:35:27 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:35:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:36:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:36:44 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:36:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:37:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:37:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:37:27 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:37:28 UTC] PHP Fatal error:  Can't use method return value in write context in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 38
+[31-Aug-2014 15:42:07 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 52
+[02-Sep-2014 08:58:25 UTC] PHP Fatal error:  Call to undefined function loadview() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 81
+[02-Sep-2014 09:37:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/awayfromhome/public_html/application/modules/home/views/post_journey.php on line 125
+[02-Sep-2014 09:37:55 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/views/post_journey.php on line 153
+[02-Sep-2014 10:43:15 UTC] PHP Fatal error:  Cannot redeclare Home_model::getDivisionName() in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 71
+[02-Sep-2014 10:44:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/awayfromhome/public_html/application/modules/home/views/viewclub.php on line 24
+[02-Sep-2014 10:48:20 UTC] PHP Fatal error:  Call to undefined method Home_model::getDivisionTeams() in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 299
+[02-Sep-2014 10:49:31 UTC] PHP Fatal error:  Cannot redeclare Home_model::getDivisionName() in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 71
+[02-Sep-2014 10:49:33 UTC] PHP Fatal error:  Cannot redeclare Home_model::getDivisionName() in /home/awayfromhome/public_html/application/modules/home/models/home_model.php on line 71
+[02-Sep-2014 12:23:46 UTC] PHP Parse error:  syntax error, unexpected $end in /home/awayfromhome/public_html/application/modules/home/views/search.php on line 61
+[08-Sep-2014 10:22:40 UTC] CSRF state token does not match one provided.
+[08-Sep-2014 10:22:44 UTC] CSRF state token does not match one provided.
+[10-Sep-2014 14:46:54 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/awayfromhome/public_html/application/modules/home/controllers/home.php on line 529

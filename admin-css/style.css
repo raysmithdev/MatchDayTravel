@@ -1,0 +1,341 @@
+body{ background:#dbe2d2;font-family:Arial, Helvetica, sans-serif; margin:0px; padding:0px; font-size:13px; color:#6da784;
+-webkit-animation: fadein 1s; /* Safari and Chrome */
+-moz-animation: fadein 1s; /* Firefox */
+-ms-animation: fadein 1s; /* Internet Explorer */
+-o-animation: fadein 1s; /* Opera */
+animation: fadein 1s;}
+h1,h2,h3,h4,h5,h6,ul,ol,p,form{padding:0px; margin:0px; font-weight:normal;}
+
+img{ border:none;}
+
+h3{ font-size:25px; color:#FFF; float:left; margin:36px 0 0 0;}
+h2{ font-size:24px; color:#FFF; line-height:30px; padding:10px 0;}
+h1{ color:#6da784; font-size:24px; line-height:51px;}
+p{ font-size:12px; color:#FFF; line-height:18px;}
+
+.readmore-btn{ width:auto; float:right; background:#6da784; text-align:center; color:#FFF; font-size:12px; cursor:pointer; text-decoration:none; padding: 7px 14px;}
+	
+.top{ width:100%; float:left; background:#94c8a9;}
+.inner-top{width:1000px; background:url(../images/top-logo-background.gif) no-repeat left top; margin:0 auto;}
+.logo{width:auto; margin:0 auto; padding:20px 0;}
+.error { border-color:red;}
+.main-nav{ background:#000; width:100%; float:left;}
+/*new nav css
+--------------------*/
+.nav {
+	/*margin: 100px auto; */
+	margin:0 auto;
+	width:1000px;
+}
+.nav ul ul {
+display: none;
+}
+.nav ul li:hover > ul {
+display: block;}
+.nav ul {
+	padding: 0 0px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+	z-index:100000000000000000000000000000000;}
+.nav ul:after {
+content: ""; clear: both; display: block;}
+.nav ul li {
+float: left;
+padding:15px 0;
+}
+.nav ul li:hover {
+color:#6cc28f;}
+.nav ul li:hover a {
+color:#6cc28f}
+.nav ul li a {
+ color: #FFF;
+ display: block;
+ padding:3px 22px;
+ border-right:1px solid #FFF;
+ background:url(../images/nav-border.gif) no-repeat right top;
+ text-decoration: none;
+ font-size:14px;}
+.nav ul ul {
+background:url(../images/nav-sub-bg.png) repeat; border-radius: 0px; padding: 0;
+position: absolute; top: 100%; width:193px;}
+.nav ul ul li {
+float: none; 
+border-top: 1px solid #666;
+border-bottom: 1px solid #666; position: relative;
+color:#CCC;}
+.nav ul ul li a {
+color: #FFFFFF !important;
+text-align: left;
+padding:14px 0 14px 15px;}	
+.nav ul ul li a:hover {
+background: #6eb118;
+color:#FFF;}
+.nav ul ul li a.active {
+background: #6eb118;
+color:#FFF;}
+.nav ul ul ul {
+position: absolute; left: 100%; top:0;}
+.nav li a.active{
+ color:#6cc28f;}
+ 
+.main-header{ width:100%; float:left;}
+.main-header img{ width:100%; float:left; height:auto;}
+
+
+.wrapper{width:1000px; margin:0 auto;}
+.main-services{ width:1000px; float:left;}
+.services-box{ float: left;
+    height: 183px;
+    padding: 0 0 0 12px;
+    width: 319px; background:#bd9d5d;}
+#services-1{ background:#e2cb9d;}
+#services-2{ background:#d0b47a;}
+.services-box p{ font-size:14px; padding:0 16px !important; color:#FFF; line-height:20px; float:left;}
+.services-box-num{width:auto; padding:38px 0; float:left;}
+.services-box-num p{ font-size:64px; padding:0 !important; color:#FFF;}
+
+
+.main-content{width:1000px; float:left;}
+.inner-content{width:993px; float:left; background:#94c8a9; border-bottom:9px solid #6da784;}
+.content-box-1{width:620px; float:left; padding:20px 20px;}
+.content-box-2{ float: right;width: 288px;}
+.content-box-2 p{ color:#6da784;}
+.content-ser{ width:256px; float:right; padding:21px 0 0 0;}
+.content-ser ul{ margin:0px; padding:0px;}
+.content-ser li{ font-size:14px;padding: 0 0 10px 39px; list-style:none; background:url(../images/green-chek.png) no-repeat left top; color:#FFF; line-height:32px;}
+.content-ser a{ padding:0px; text-decoration:none; color:#FFF;}
+.content-ser a:hover{color:#6da784;}
+
+.garelly{ width:auto; float:left;}
+.garelly ul{margin:0px; float:left; padding:0px;}
+.garelly li{list-style:none;height:181px;margin:0 15px 15px 0; float:left; border:2px solid #6da784;}
+.garelly a{padding:0px; text-decoration:none;}
+.garelly a:hover{}
+
+.categires-box{ width:288px; margin:26px 0 0; float:left; background:#d0b47a;}
+.categires-box h2{ background:url(../images/categires-h2-background.gif) repeat-x left 15px; padding:11px 0 12px 21px; color:#f0ede4; font-size:24px;}
+.categires-box h5{ padding:10px 0 0 0;font-size:24px; color:#f0ede4; text-align:center !important;}
+.categires-box ul{ margin:0 0 0 30px; padding:0 0 13px 0;}
+.categires-box li{ list-style:none;  padding: 0 0 0 20px; line-height:26px; background:url(../images/white-bulit.gif) no-repeat left 10px; font-size:14px; color:#f0ede4;}
+.categires-box a{ padding:0px; text-decoration:none; color:#f0ede4;}
+.categires-box a:hover{ color:#000;}
+
+.harf-content{ width:665px; float:left;}
+.harf-content p{ color:#6da784;}
+
+
+.product{ width:150px; float:left; padding:0 14px 27px 0;}
+.product img{border:2px solid #6da784;}
+.product h5{ font-size:14px; line-height:24px;color:#6da784;}
+.view-btn{ font-size:11px; color:#6da784; text-decoration:underline; cursor:pointer; width:auto; float:right;}
+
+.main-footer{ width:100%; float:left; margin:42px 0 0 0; padding:0 0 20px 0; background:#bfd8c2;border-top:9px solid #94c8a9;}
+.inner-footer{ width:1000px; margin:0 auto; padding:18px 0 0px 0;}
+.footer-box{width:263px; margin:0 36px 0 0; float:left;}
+.footer-box h2{ font-size:18px; color:#6da784; line-height:25px;}
+.footer-box p{ font-size:12px; color:#6da784;}
+.footer-box ul{ margin:0px; padding:0px;}
+.footer-box li{ color:#6da784; padding:3px 0; margin:0 0 0 13px;}
+.footer-box a{ padding:0px 0px; text-decoration:none;color:#6da784;}
+.footer-box a:hover{}
+.footer-box-socail{width:auto; margin:0 90px 0 0; float:left; padding:20px 0 0 0;}
+.footer-box-socail img{ padding:0 0 8px 0; cursor:pointer;} 
+.footer-box input{ background:#bfd8c2; border:1px solid #6da784; }
+.txtbox { background:#bfd8c2; border:1px solid #6da784; height:26px; width:180px;}
+
+
+.footer-box textarea{background:#bfd8c2; border:1px solid #6da784;}
+
+    .info,.success,.warning,.validation{
+      border:1px solid;
+      margin:10px 0px;
+      padding:15px 10px 15px 50px;
+      background-repeat:no-repeat;
+      background-position:10pxcenter;
+    }
+    .info{
+      color:#00529B;
+      background-color:#BDE5F8;
+      background-image:url('../images/info.png');
+    }
+    .success{
+      color:#4F8A10;
+      background-color:#DFF2BF;
+      background-image:url('../images/success.png');
+    }
+    .warning{
+      color:#9F6000;
+      background-color:#FEEFB3;
+      background-image:url('../images/warning.png');
+    }
+	#loading { text-align:center;}
+	
+
+.fancybox-inner { background-color:#373737;}
+
+.login {
+  position: relative;
+  margin: 48px auto;
+  width: 400px;
+  padding-right: 32px;
+  font-weight: 300;
+  color: #a8a7a8;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.8);
+}
+.login p {
+  margin: 0 0 10px;
+}
+
+ input, button, label {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.link { color:green; text-decoration:none;}
+ .login input[type=text], input[type=password] {
+  padding: 0 10px;
+  width: 300px;
+  height: 40px;
+  color: #bbb;
+  text-shadow: 1px 1px 1px black;
+  background: rgba(0, 0, 0, 0.16);
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.06);
+}
+ input[type=text]:focus, input[type=password]:focus {
+  color: white;
+  background: rgba(0, 0, 0, 0.1);
+  outline: 0;
+}
+.lbl { color:#000; text-align:left;}
+#error { color:red;}
+label {
+  float: left;
+  width: 100px;
+  line-height: 40px;
+  padding-right: 10px;
+  font-weight: 100;
+  text-align: right;
+  letter-spacing: 1px;
+}
+
+.forgot-password {
+  padding-left: 100px;
+  font-size: 13px;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.login-submit {
+  position: absolute;
+  top: 12px;
+  right: 0;
+  width: 48px;
+  height: 48px;
+  padding: 8px;
+  border-radius: 32px;
+  -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.35);
+}
+.login-submit:before, .login-submit:after {
+  content: '';
+  z-index: 1;
+  position: absolute;
+}
+.login-submit:before {
+  top: 28px;
+  left: -4px;
+  width: 4px;
+  height: 10px;
+  -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.06);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.06);
+}
+.login-submit:after {
+  top: -4px;
+  bottom: -4px;
+  right: -4px;
+  width: 36px;
+}
+
+.login-button {
+  position: relative;
+  z-index: 2;
+  width: 48px;
+  height: 48px;
+  padding: 0 0 48px;
+  /* Fix wrong positioning in Firefox 9 & older (bug 450418) */
+  text-indent: 120%;
+  white-space: nowrap;
+  overflow: hidden;
+  background: none;
+  border: 0;
+  border-radius: 24px;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 1px rgba(255, 255, 255, 0.1);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 1px rgba(255, 255, 255, 0.1);
+  /* Must use another pseudo element for the gradient background because Webkit */
+  /* clips the background incorrectly inside elements with a border-radius.     */
+}
+.login-button:before {
+  content: '';
+  position: absolute;
+  top: 5px;
+  bottom: 5px;
+  left: 5px;
+  right: 5px;
+  background: #00a2d3;
+  border-radius: 24px;
+  background-image: -webkit-linear-gradient(top, #00a2d3, #0d7796);
+  background-image: -moz-linear-gradient(top, #00a2d3, #0d7796);
+  background-image: -o-linear-gradient(top, #00a2d3, #0d7796);
+  background-image: linear-gradient(to bottom, #00a2d3, #0d7796);
+  -webkit-box-shadow: inset 0 0 0 1px #00a2d3, 0 0 0 5px rgba(0, 0, 0, 0.16);
+  box-shadow: inset 0 0 0 1px #00a2d3, 0 0 0 5px rgba(0, 0, 0, 0.16);
+}
+.login-button:active:before {
+  background: #0591ba;
+  background-image: -webkit-linear-gradient(top, #0591ba, #00a2d3);
+  background-image: -moz-linear-gradient(top, #0591ba, #00a2d3);
+  background-image: -o-linear-gradient(top, #0591ba, #00a2d3);
+  background-image: linear-gradient(to bottom, #0591ba, #00a2d3);
+}
+.login-button:after {
+  content: '';
+  position: absolute;
+  top: 15px;
+  left: 12px;
+  width: 25px;
+  height: 19px;
+  background: url("../img/arrow.png") 0 0 no-repeat;
+}
+
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.lt-ie9 input[type=text], .lt-ie9 input[type=password] {
+  line-height: 40px;
+  background: #282828;
+}
+.lt-ie9 .login-submit {
+  position: absolute;
+  top: 12px;
+  right: -28px;
+  padding: 4px;
+}
+.lt-ie9 .login-submit:before, .lt-ie9 .login-submit:after {
+  display: none;
+}
+.lt-ie9 .login-button {
+  line-height: 48px;
+}
+.lt-ie9 .about {
+  background: #313131;
+}
